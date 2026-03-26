@@ -7,7 +7,7 @@ A simple message board REST API built with FastAPI, SQLite, and SQLAlchemy.
 ## Setup
 
 ### Prerequisites
-- Python 3.11+
+- Python 3.13+
 
 ### Local development
 
